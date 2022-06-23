@@ -1,0 +1,9 @@
+.city {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  &__temperature {
+    font-size: 32px;
+  }
+}
